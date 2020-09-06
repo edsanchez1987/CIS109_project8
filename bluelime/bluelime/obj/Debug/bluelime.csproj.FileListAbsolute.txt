@@ -1,0 +1,10 @@
+C:\Users\Julian\source\repos\bluelime\bluelime\bin\Debug\bluelime.exe.config
+C:\Users\Julian\source\repos\bluelime\bluelime\bin\Debug\bluelime.exe
+C:\Users\Julian\source\repos\bluelime\bluelime\bin\Debug\bluelime.pdb
+C:\Users\Julian\source\repos\bluelime\bluelime\obj\Debug\bluelime.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\bluelime\bluelime\obj\Debug\bluelime.frmMain.resources
+C:\Users\Julian\source\repos\bluelime\bluelime\obj\Debug\bluelime.Properties.Resources.resources
+C:\Users\Julian\source\repos\bluelime\bluelime\obj\Debug\bluelime.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\bluelime\bluelime\obj\Debug\bluelime.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\bluelime\bluelime\obj\Debug\bluelime.exe
+C:\Users\Julian\source\repos\bluelime\bluelime\obj\Debug\bluelime.pdb
